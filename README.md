@@ -1,2 +1,2 @@
-# Shelfy-V1
+# Inventory-Lookup-App
 Online tool that checks for product availability inside inventory
